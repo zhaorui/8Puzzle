@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NewPuzzle", "NewPuzzle.vcproj", "{F0D33DAE-68BB-3915-A37D-AEC72A56928D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StepTable", "..\Classic Tutorial\StepTable\StepTable.vcproj", "{A6DA1F9F-8B44-3A2D-9A0F-369C208698B2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qftp", "F:\Qt\4.7.3\examples\network\qftp\qftp.vcproj", "{AC36E447-5D22-3933-8231-11DB10F11C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0D33DAE-68BB-3915-A37D-AEC72A56928D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0D33DAE-68BB-3915-A37D-AEC72A56928D}.Debug|Win32.Build.0 = Debug|Win32
+		{F0D33DAE-68BB-3915-A37D-AEC72A56928D}.Release|Win32.ActiveCfg = Release|Win32
+		{F0D33DAE-68BB-3915-A37D-AEC72A56928D}.Release|Win32.Build.0 = Release|Win32
+		{A6DA1F9F-8B44-3A2D-9A0F-369C208698B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6DA1F9F-8B44-3A2D-9A0F-369C208698B2}.Debug|Win32.Build.0 = Debug|Win32
+		{A6DA1F9F-8B44-3A2D-9A0F-369C208698B2}.Release|Win32.ActiveCfg = Release|Win32
+		{A6DA1F9F-8B44-3A2D-9A0F-369C208698B2}.Release|Win32.Build.0 = Release|Win32
+		{AC36E447-5D22-3933-8231-11DB10F11C2A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC36E447-5D22-3933-8231-11DB10F11C2A}.Debug|Win32.Build.0 = Debug|Win32
+		{AC36E447-5D22-3933-8231-11DB10F11C2A}.Release|Win32.ActiveCfg = Release|Win32
+		{AC36E447-5D22-3933-8231-11DB10F11C2A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

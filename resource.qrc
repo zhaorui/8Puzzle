@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/auto.JPG</file>
+        <file>icons/next.JPG</file>
+        <file>pictures/blackWhiteTree.jpg</file>
+        <file>pictures/blue-marble-west.jpg</file>
+        <file>pictures/Hommer.jpg</file>
+        <file>pictures/Peace.jpeg</file>
+        <file>pictures/Sunset.jpg</file>
+        <file>icons/windowicon.jpg</file>
+        <file>icons/set.jpg</file>
+    </qresource>
+</RCC>

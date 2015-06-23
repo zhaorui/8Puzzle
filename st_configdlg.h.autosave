@@ -1,0 +1,6 @@
+#ifndef ST_CONFIGDLG_H
+#define ST_CONFIGDLG_H
+
+#include <>
+
+#endif // ST_CONFIGDLG_H
